@@ -1,5 +1,5 @@
 ## Hello there 👋
-I’m Gabriele, a 19-year-old computer engineering enthusiast from Italy  
+I’m Gabriele, a 19-year-old computer engineering student from Italy  
 
 ### About me
 I recently graduated from the scientific high school specializing in applied sciences, where I developed a strong interest in computer science and related topics. My journey into the digital world started in middle school, where I learned how to use the Adobe suite, and has since been enriched through self-study and school-based programming.
