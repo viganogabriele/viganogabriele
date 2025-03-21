@@ -7,3 +7,7 @@ I recently graduated from a scientific high school with a focus on applied scien
 Now, I’m studying Computer Engineering at university, eager to expand my knowledge and turn ideas into real solutions. I’m always open to connecting with professionals and companies in the IT field — ready to learn, collaborate, and grow.
 
 I’m excited for the challenges ahead and committed to shaping my passion into a successful and impactful career in tech.
+
+### Let's connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/viganogabriele)  
+📫 Email: infogabrielevigano@gmail.com
