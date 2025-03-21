@@ -10,4 +10,4 @@ I’m excited for the challenges ahead and committed to shaping my passion into 
 
 ### Let's connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/viganogabriele)  
-📫 [Email](infogabrielevigano@gmail.com)  
+📫 [Email](mailto:infogabrielevigano@gmail.com)  
