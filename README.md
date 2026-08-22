@@ -4,9 +4,6 @@
 
 Computer Engineering student @ Politecnico di Milano — Omarchy tinkerer & homelab operator
 
-[![Followers](https://img.shields.io/github/followers/viganogabriele?style=for-the-badge&color=78a9ff&labelColor=080b16)](https://github.com/viganogabriele)
-[![Profile views](https://komarev.com/ghpvc/?username=viganogabriele&style=for-the-badge&color=78a9ff&labelColor=080b16)](https://github.com/viganogabriele)
-
 <a href="https://www.linkedin.com/in/viganogabriele"><img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:info@viganogabriele.com"><img height="32" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.viganogabriele.com/"><img height="32" src="https://img.shields.io/badge/Website-78a9ff?style=for-the-badge&logo=safari&logoColor=white" /></a>
@@ -54,14 +51,8 @@ I'm 21, studying Computer Engineering at Politecnico di Milano. Alongside uni I 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viganogabriele&show_icons=true&hide_border=true&bg_color=080b16&title_color=78a9ff&icon_color=78a9ff&text_color=edf1ff&ring_color=a68bff" width="55%" />
+<img src="https://gh-readme-stats.vercel.app/api?username=viganogabriele&show_icons=true&hide_border=true&bg_color=080b16&title_color=78a9ff&icon_color=78a9ff&text_color=edf1ff&ring_color=a68bff" width="55%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viganogabriele&layout=compact&hide_border=true&bg_color=080b16&title_color=78a9ff&text_color=edf1ff" width="55%" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=viganogabriele&layout=compact&hide_border=true&bg_color=080b16&title_color=78a9ff&text_color=edf1ff" width="55%" />
 
-</div>
-
----
-
-<div align="center">
-<sub>Fatto con ❤️ e un SVG animato</sub>
 </div>
