@@ -46,13 +46,3 @@ I'm 21, studying Computer Engineering at Politecnico di Milano. Alongside uni I 
     </td>
   </tr>
 </table>
-
-### Stats
-
-<div align="center">
-
-<img src="https://gh-readme-stats.vercel.app/api?username=viganogabriele&show_icons=true&hide_border=true&bg_color=080b16&title_color=78a9ff&icon_color=78a9ff&text_color=edf1ff&ring_color=a68bff" width="55%" />
-
-<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=viganogabriele&layout=compact&hide_border=true&bg_color=080b16&title_color=78a9ff&text_color=edf1ff" width="55%" />
-
-</div>
