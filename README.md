@@ -2,7 +2,7 @@
 
 <img src="banner.svg" alt="Gabriele" width="600" />
 
-Computer Engineering student @ Politecnico di Milano — Omarchy tinkerer & homelab operator
+Computer Engineering student @ Politecnico di Milano
 
 <a href="https://www.linkedin.com/in/viganogabriele"><img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:info@viganogabriele.com"><img height="32" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
