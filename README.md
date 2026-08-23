@@ -14,7 +14,7 @@ Computer Engineering student @ Politecnico di Milano
 
 ### About me
 
-I'm 21, studying Computer Engineering at Politecnico di Milano. Alongside uni I help run [@PoliNetworkOrg](https://github.com/PoliNetworkOrg), the student community/tools org for Polimi students. Outside of that I'm usually tweaking my [Omarchy](https://omarchy.org) (Arch + Hyprland) setup or running my homelab.
+I'm 21 running [@PoliNetworkOrg](https://github.com/PoliNetworkOrg), the student community/tools org for Polimi students. Outside of that I'm usually tweaking my [Omarchy](https://omarchy.org) (Arch + Hyprland) setup or running my homelab.
 
 ### Stack
 
