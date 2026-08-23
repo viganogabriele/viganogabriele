@@ -28,7 +28,7 @@ I'm 21, studying Computer Engineering at Politecnico di Milano. Alongside uni I 
 
 </div>
 
-### Omarchy things
+### <a href="https://omarchy.org">Omarchy</a> things 
 
 <table>
   <tr>
