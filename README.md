@@ -38,7 +38,7 @@ I'm 21 running [@PoliNetworkOrg](https://github.com/PoliNetworkOrg), the student
     </td>
     <td width="33%" valign="top">
       <strong><a href="https://github.com/viganogabriele/agent-usage-plus">agent-usage-plus</a></strong><br/>
-      Omarchy bar widget for Claude Code, Codex, and Fireworks usage/limits.
+      Omarchy bar widget for AI coding usage, limits, balances, pace, costs and history.
     </td>
     <td width="33%" valign="top">
       <strong><a href="https://github.com/viganogabriele/fast-note-todo">fast-note-todo</a></strong><br/>
